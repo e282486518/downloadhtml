@@ -1,0 +1,13 @@
+{
+    "header":{
+        "User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B176 MicroMessenger/4.3.2",
+        "Accept-Language": "zh-CN,zh;q=0.8"
+    },
+    "webroot":"www",
+    "is_login":"True",
+    "login_url":"http://mail.163.com",
+    "login_data":{
+        "username":"sdsfs",
+        "password":"123456"
+    }
+}
